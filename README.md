@@ -30,7 +30,7 @@ To view or use this project locally:
 
 You can reach me at:
 - Email: christine@gmail.com
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/WinWin300)
+- LinkedIn: [my-linkedin-profile](https://linkedin.com/in/WinWin300)
 
 ## License
 
